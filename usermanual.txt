@@ -1,0 +1,39 @@
+****************************************USER MANUAL**************************************
+
+This is a Information System for registering and searching the books available in the book
+store.
+All the data in the table will be sorted based on price when user try to search books based
+on price.
+Only the first data found while performing binary search will be displayed.
+The rows will be added automatically to the table when new data is registered.
+
+
+------------------------------------------------------------------------------------------
+****************************************HOW TO USE****************************************
+
+-----FILE-----
+	# Click on the file button in menu bar to open the list of books, save updated list 
+	  and close the window.
+	---OPEN--- To open list of books available
+	---Save--- Save updated list of boooks
+	---Close-- Close the program
+------Help----
+	---User Manual----- Opens the user manual
+After inserting all the required data  in Register Books pannel click "register" to
+keep your data in table.
+Save your data (Ctrl + S) before exiting the program or else your data will be lost.
+
+------------------------------------------------------------------------------------------
+************************************Shortcut Keys******************************************
+
+	----Ctrl + O---- Open File
+	----Ctrl + S---- Save File
+	----Ctrl + W---- Close Program
+	----Ctrl + H---- Open user manual
+
+********************************************************************************************
+*********************THANKS FOR USING BOOK STORE INFORMATION SYSTEM*************************
+********************************************************************************************
+____________________________________________________________________________________________
+Developed By: Dipesh Duwal, Nilanshu Basnet, Sagar Poudel
+____________________________________________________________________________________________
